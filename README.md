@@ -32,7 +32,7 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
   - php artisan server // To start the application
 
 ## Api Documentation
-- **[Doc](https://vehikl.com/)**
+- **[Doc](https://documenter.getpostman.com/view/16114277/2sA3BuVokW)**
 
 ## License
 
