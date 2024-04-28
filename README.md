@@ -32,6 +32,8 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
   - copy .env.example to .env and udate it
   - php artisan key:generate
   - php artisan server // To start the application
+    
+Make sure the api base url use your local url.
 
 ## Api Documentation
 - **[Doc](https://documenter.getpostman.com/view/16114277/2sA3BuVokW)**
