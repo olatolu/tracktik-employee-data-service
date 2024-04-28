@@ -29,6 +29,8 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 - Run The following command
   - composer install
   - php artisan migrate
+  - copy .env.example to .env and udate it
+  - php artisan key:generate
   - php artisan server // To start the application
 
 ## Api Documentation
